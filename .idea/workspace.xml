@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83187aaf-bb6e-4910-ac3b-08bd648ba8b7" name="Changes" comment="">
+    <list default="true" id="83187aaf-bb6e-4910-ac3b-08bd648ba8b7" name="Changes" comment="Mentoring day -&gt; custom methods for assertions, waits, actions">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/actions/CommonWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/actions/CommonWaits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/stepdef/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/stepdef/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/WaitTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/WaitTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2CYCdAyKOiUxR7AQQx49HvZQAcI" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -47,6 +49,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -182,7 +187,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mentoring day -&gt; custom methods for assertions, waits, actions" />
